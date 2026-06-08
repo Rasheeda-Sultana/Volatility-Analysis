@@ -1,10 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-
-Crypto Historical Volatility Analysis
-@author: Adam Getbags
-
-"""
 
 #Import modules
 #import yahoo_fin.stock_info as si
