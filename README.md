@@ -1,6 +1,4 @@
-Here is a README.md that sticks only to the information provided:
 
-````markdown
 # Historical Volatility Analysis for Crypto & Equities
 
 Built quantitative finance models in Python to analyze historical volatility, log returns, ATR, drawdowns, and rolling statistical indicators for crypto and equity markets using Pandas and NumPy for quantitative trading research, market behavior analytics, and risk assessment.
