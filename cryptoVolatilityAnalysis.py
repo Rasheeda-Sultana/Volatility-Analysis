@@ -2,7 +2,7 @@
 """
 
 Crypto Historical Volatility Analysis
-@author: Adam Getbags
+@author: Rasheeda Sultana
 
 """
 
